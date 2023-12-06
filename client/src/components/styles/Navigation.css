@@ -1,0 +1,38 @@
+.nav-bar li{
+    display: inline-block;
+    padding: 10px;
+}
+
+.nav-bar li a{
+    text-decoration: none;
+    /* background-color: aqua; */
+    margin: zero;
+    padding: 5px;
+    color: white;
+
+}
+
+.nav{
+    /* background-color: rgba(21, 21, 211, 0.911); */
+    background-color: rgba(55, 55, 226, 0.918);
+    font-size: 20px;
+}
+
+.navIn{
+    margin-left: 34%;
+}
+
+
+.nav-bar-right li{
+    display: inline-block;
+    padding: 10px;
+}
+
+.nav-bar-right li a{
+    text-decoration: none;
+    /* background-color: aqua; */
+    margin: zero;
+    padding: 5px;
+    color: white;
+
+}

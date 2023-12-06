@@ -1,0 +1,14 @@
+.btn{
+    margin: 25px;
+    padding:  10px;
+    width: 150px;
+    background-color: skyblue;
+    border: 1px solid;
+    cursor: pointer;
+}   
+
+
+.fileAdd{
+    margin-left: 42%;
+    padding-top: 4%;
+}

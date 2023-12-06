@@ -1,0 +1,19 @@
+.btnn{
+        margin: 25px;
+        padding:  7px;
+        width: 150px;
+        background-color: skyblue;
+        border: 1px solid;
+        cursor: pointer;
+        border-radius: 5px;
+}   
+
+
+.agreement{
+    text-decoration: solid;
+}
+
+.Check{
+    margin-left: 42%;
+    padding-top: 4%;
+}
